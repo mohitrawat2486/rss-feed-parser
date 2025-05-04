@@ -1,0 +1,15 @@
+{
+  "name": "mohitrawat/rss-feed-parser",
+  "description": "A PHP package to parse RSS feeds and fetch full content from each article.",
+  "type": "library",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "mohitrawat\\RssFeedParser\\": "src/"
+    }
+  },
+  "require": {
+    "php": ">=7.4"
+  }
+}
+

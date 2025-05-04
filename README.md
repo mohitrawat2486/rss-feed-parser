@@ -18,6 +18,5 @@ $parser = new RssFeedParser('https://example.com/rss');
 $articles = $parser->fetch();
 print_r($articles);
 ```
-
 ## License
 MIT
